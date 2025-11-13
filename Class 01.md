@@ -8,3 +8,6 @@ Make Linkedin Account
 Make Github Account
 Make your X/Twitter Account
 Get overview about python and google colab
+
+
+PS F:\PNL FOLDER\QUATERS PNL\Folder\Agentic Ai-SMIT\Class 01> git remote add origin https://github.com/yourusername/Agentic-AI-SMIT.git
